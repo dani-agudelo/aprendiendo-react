@@ -30,4 +30,5 @@ export function App() {
  * - Las props deben ser inmutables, por buenas prácticas. Si se debe cambiar algo entonces crear una constante
  * - Existen props que son children, el componente los envuelve. Para usarlos, se le pasa el argumento y se usa {children}
  * - Las prop children pueden ser etiquetas también.
+ * .....
  */
