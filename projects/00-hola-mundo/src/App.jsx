@@ -18,6 +18,7 @@ export function App() {
                 isFollowing={false}
             >
                 Victor Manuel 
+                
             </TwitterFollowCard>
         </>
 
