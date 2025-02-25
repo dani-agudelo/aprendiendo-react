@@ -17,7 +17,7 @@ export function App() {
                 userName='Eternalsoull'
                 isFollowing={false}
             >
-                Victor Manuel 
+                Un usuario de Twitter
                 
             </TwitterFollowCard>
         </>
