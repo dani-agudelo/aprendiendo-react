@@ -16,6 +16,7 @@ const users = [
     userName: 'TMChein',
     name: 'Tomas',
     isFollowing: false
+    
   }
 ]
 
