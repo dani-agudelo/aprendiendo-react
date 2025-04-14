@@ -16,7 +16,21 @@ const users = [
     userName: 'TMChein',
     name: 'Tomas',
     isFollowing: false
-    
+  },
+  {
+    userName: 'mauromorales',
+    name: 'Mauro Morales',
+    isFollowing: false
+  },
+  {
+    userName: 'santiagomorales',
+    name: 'Santiago Morales',
+    isFollowing: false
+  },
+  {
+    userName: 'andreacastillo',
+    name: 'Andrea Castillo',
+    isFollowing: false
   }
 ]
 
