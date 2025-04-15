@@ -52,6 +52,7 @@ export function App () {
   )
 }
 
+
 /**
  * Notas: 
  * - //*En el caso de un prop que no se le pasa ningún valor, JSX lo interpreta como true.
