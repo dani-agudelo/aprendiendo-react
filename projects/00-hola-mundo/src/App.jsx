@@ -80,4 +80,5 @@ export function App () {
  * Renderizado 
  * - El renderizado en React es muy eficiente, solo se renderizan los elementos que cambian.
  * - Si cambia un componente, React renderiza solo ese componente y sus hijos.
+ * 
  */
